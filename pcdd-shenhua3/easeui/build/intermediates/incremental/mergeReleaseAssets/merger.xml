@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/piaojin/Desktop/PC系列/PC1/PCDanDan_Android/pcdd-shenhua3/easeui/assets"/><source path="/Users/piaojin/Desktop/PC系列/PC1/PCDanDan_Android/pcdd-shenhua3/easeui/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/piaojin/Desktop/PC系列/PC1/PCDanDan_Android/pcdd-shenhua3/easeui/build-types/release/assets"/></dataSet></merger>

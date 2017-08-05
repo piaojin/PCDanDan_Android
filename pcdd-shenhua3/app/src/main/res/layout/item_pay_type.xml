@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:id="@+id/tvPayType"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#fff"
+    android:gravity="center_vertical"
+    android:padding="10dp"
+    android:drawableEnd="@drawable/arrow_right_gray"
+    android:drawablePadding="10dp"
+    android:textSize="15sp"
+    android:textColor="@color/text_black"
+    android:text="支付宝转账"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
